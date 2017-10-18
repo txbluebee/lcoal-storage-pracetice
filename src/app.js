@@ -1,5 +1,7 @@
 import './assets/scss/app.scss';
 import { sum } from './assets/js/sum'; //import sum js module
+import './assets/js/todo';
+
 import 'jquery';
 import 'bootstrap'; // importing bootstrap.js
 
